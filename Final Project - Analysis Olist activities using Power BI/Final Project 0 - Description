@@ -1,4 +1,16 @@
 Final Group Project:  exploratory data analysis with the Olist Store dataset, to generate business insights and provide recommendations for improvement
 
-My work on this project was to focus on the insights we can get from customers reviews and feedback. 
-A focus on each region & store review scores allows to pinpoint areas of concern, and set out a plan of action to improve performances in service, speed of delivery…
+Part 1 - My work on this project was to focus on the insights we can get from customers reviews and feedback. 
+Part 2- A focus on each region & store review scores allows to pinpoint areas of concern, and set out a plan of action to improve performances in service, speed of delivery…
+Part 3 - A quick comparison of Review Score and Average product price per category shows little to no correlation between them.
+The price paid by customers doesn’t affect customers experiences.
+Part 4 - Looking at the best and worst rated products, as well as sales volumes.
+The chart allows us to make decisions on certain products: high volume products with a review score below average could be viewed as an issue
+Part 5 - Using a Python query to create a Sentiment Variable based on customers comments allows for more insights on their experience.
+The box plot shows plenty of outliers though.
+Part 6 - Focus on the outliers. Looking at 5* with a negative sentiment, and on the next slide, 1* reviews with positive sentiment.
+Potential limits of the sentiment analysis
+Part 7 - Viewing comments in detail, a feedback containing positive and negative comments may only pick up one of the sentiments.
+A better feedback system could offer better insights on customer’s experiences
+Part 8 - Looking at response time, sellers take longer to reply to a very negative 1* review than any other score.
+Important improvements required in that aspect.
