@@ -1,5 +1,5 @@
 Taking a previously used dataset to reproduce the analysis on Power BI:
 
 Here I attempted to make a report that will update along with the data source.
-I wanted to reproduce a similar vizz than what I created using Tableau previously, as a way of seeing the differences between Power BI and Tableau, and how to adapt between the 2
-
+Upon Refreshing the data, the report should update and change the recommendations if the Top 2 currencies have changed.
+The report also allows to navigate through the various Cryptos and view their caracteristics
